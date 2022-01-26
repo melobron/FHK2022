@@ -1,0 +1,16 @@
+각 파라미터 별로 특정 python 파일 실행
+
+1. G
+python test_G.py --output_param='G'
+
+2. T1
+python test_T1.py --output_param='T1'
+
+3. T2
+python test_T2.py --output_param='T2'
+
+4. W_L
+python test_W_L.py --output_param='W_L'
+
+5. W_R
+python test_W_R.py --output_param='W_R'

@@ -1,0 +1,15 @@
+설치에 오류가 있어 수동으로 설치해 주셔야 되는 파일들이 있습니다.
+정말 죄송하지만 아래 pip freeze > requirements.txt로 정상적으로 패키지가 적혀져 나오지 않았습니다.
+아래 줄들을 복사하여 설치해주시면 감사 드리겠습니다.
+
+
+conda install numpy
+conda install pandas
+pip install pandas_profiling
+conda install scikit-learn
+conda install xgboost
+conda install catboost
+conda install lightgbm
+pip install pytorch-tabnet
+pip install optuna
+conda install openpyxl
